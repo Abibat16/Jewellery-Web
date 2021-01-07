@@ -1,0 +1,30 @@
+<!HTML DOCTYPE>
+<html>
+<head>
+<Title>Trinket Trove</Title>
+</head>
+<body>
+<center>
+
+<li><a href = "fake.com"> About the Company </a><li>
+<a href = "fake.com"> Contact Us </a>
+<li><a href = "fake.com"> Help </a>
+
+<h1> Trinket Trove </h1>
+<p>Trinket Trove is a Christ-based jewelry company which aims to spread the Gospel through jewellery. In the same way that the most beautiful ornaments are made, believers in Christ are made beautiful through his <em> saving grace </em>.</p>
+
+<img src = "https://pngimg.com/uploads/jewelry/jewelry_PNG6833.png"height="200">
+
+<center/>
+<ul><h3> What kind of jewellery can I find here?</h3>
+<li>Necklaces</li>
+<li>Bracelets</li>
+<li>Earrings</li>
+<li>Rings</li>
+</ul>
+
+
+
+
+</body>
+</html>
